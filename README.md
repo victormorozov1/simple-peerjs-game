@@ -1,3 +1,3 @@
-# Peerjs group chat
+# Simple Peerjs online game
 
-demo http://peerjs-group-chat.herokuapp.com
+demo http://simple-peerjs-game.herokuapp.com

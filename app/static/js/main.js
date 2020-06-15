@@ -91,7 +91,7 @@
         let y = event.offsetY;
         $('#' + peer_id).css('top', y + 'px');
         $('#' + peer_id).css('left', x + 'px');
-        console.log(x, y);
+        //console.log(x, y);
         sendMess({x: x, y: y});
     });
 
