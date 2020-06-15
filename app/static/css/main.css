@@ -1,0 +1,20 @@
+.player{
+    position: fixed;
+    height: 30px;
+    width: 30px;
+    background-color: green;
+}
+
+.other-player{
+    position: fixed;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+}
+
+.field{
+    height: 100%;
+    width: 100%;
+    background-color: yellow;
+    position: fixed;
+}
